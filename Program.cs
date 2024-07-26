@@ -127,7 +127,7 @@ namespace birthday_mail
                                 left: 60%;
                                 transform: translateX(-50%);
                                 width: 42%; /* adjust the width as needed */
-                                /* background-color: black; */
+                                background-color: black;
                                 color: white;
                                 /* padding: 10px; */
                                 /* border-radius: 10px; */
@@ -138,6 +138,7 @@ namespace birthday_mail
                             .employee-name {{
                                 font-size: 1.5em;
                                 margin: 0;
+                                color: white;
                             }}
 
                                 </style>
