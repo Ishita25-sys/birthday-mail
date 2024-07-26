@@ -73,7 +73,7 @@ namespace birthday_mail
                                 <meta charset='UTF-8'>
                                 <meta name='viewport' content='width=device-width, initial-scale=1.0'>
                                 <title>Birthday Post Template</title>
-                                <link rel='stylesheet' href='style1.css'>
+                                <link rel='stylesheet' href='https://raw.githubusercontent.com/Ishita25-sys/birthday-mail/master/style1.css'>
                                 
                             </head>
                             <body>
