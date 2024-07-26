@@ -144,7 +144,7 @@ namespace birthday_mail
                             </head>
                             <body>
                                 <div class='birthday-post'>
-                                    <img src='https://raw.githubusercontent.com/Ishita25-sys/birthday-mail/master/Birthday%20poster.png?token=GHSAT0AAAAAACU4Z24PTA3HJ2VT7JARWLTGZVDHCSQ' alt='Birthday Background' class='background-image'>
+                                    <img src='https://raw.githubusercontent.com/Ishita25-sys/One-More-Shot/main/Birthday%20poster.png' alt='Birthday Background' class='background-image'>
                                     <div class=""employee-photo-container"">
                                         <img src='{current_path}' alt='Employee Photo' class='employee-photo'>
                                     </div>
