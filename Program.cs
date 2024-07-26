@@ -73,75 +73,8 @@ namespace birthday_mail
                                 <meta charset='UTF-8'>
                                 <meta name='viewport' content='width=device-width, initial-scale=1.0'>
                                 <title>Birthday Post Template</title>
-                                <link rel='stylesheet' href='styles.css'>
-                                <style>
-                            body, html {{
-                                margin: 0;
-                                padding: 0;
-                                height: 145%;
-                                font-family: Arial, sans-serif;
-                                background-color: #E8E8FF; /* match the background color */
-                                display: flex;
-                                justify-content: center;
-                                align-items: center;
-                            }}
-
-                            .birthday-post {{
-                                position: relative;
-                                width: 768px; /* match the width of your image */
-                                height: 1086px; /* match the height of your image */
-                                text-align: center;
-                            }}
-
-                            .background-image {{
-                                width: 100%;
-                                height: 100%;
-                                position: absolute;
-                                top: 0;
-                                left: 0;
-                                z-index: 1;
-                            }}
-
-                            .employee-photo-container {{
-                                position: absolute;
-                                top: 440px; /* adjust based on the actual position in the image */
-                                left: 398px; /* adjust based on the actual position in the image */
-                                width: 313px; /* match the rectangle size */
-                                height: 442px; /* match the rectangle size */
-                                z-index: 2;
-                                display: flex;
-                                justify-content: center;
-                                align-items: center;
-                                overflow: hidden;
-                            }}
-
-                            .employee-photo {{
-                                width: 100%;
-                                height: 100%;
-                                object-fit: cover;
-                            }}
-
-                            .employee-info {{
-                                position: absolute;
-                                bottom: 140px; /* adjust based on the actual position in the image */
-                                left: 60%;
-                                transform: translateX(-50%);
-                                width: 42%; /* adjust the width as needed */
-                                background-color: black;
-                                color: white;
-                                /* padding: 10px; */
-                                /* border-radius: 10px; */
-                                z-index: 2;
-                                text-align-last: right;
-                            }}
-
-                            .employee-name {{
-                                font-size: 1.5em;
-                                margin: 0;
-                                color: white;
-                            }}
-
-                                </style>
+                                <link rel='stylesheet' href='style.css'>
+                                
                             </head>
                             <body>
                                 <div class='birthday-post'>
